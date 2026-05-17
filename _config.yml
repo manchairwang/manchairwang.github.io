@@ -3,5 +3,7 @@ description: 2026年最新产品评测、副业赚钱指南和AI工具推荐
 url: https://manchairwang.github.io
 author: CatKitty
 markdown: kramdown
+permalink: /:path/
 plugins:
   - jekyll-sitemap
+theme: null
