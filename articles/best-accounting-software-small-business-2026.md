@@ -1,7 +1,7 @@
 ---
 title: "Best Accounting Software for Small Business 2026: Top 8 Solutions Compared"
 layout: default
-  description: "Running a small business means wearing many hats — but accounting shouldn't be one you struggle with."
+description: "Running a small business means wearing many hats — but accounting shouldn't be one you struggle with."
 ---
 
 # Best Accounting Software for Small Business 2026: Top 8 Solutions Compared

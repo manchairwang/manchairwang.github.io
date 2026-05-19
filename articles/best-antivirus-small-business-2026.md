@@ -1,7 +1,7 @@
 ---
 title: "Best Antivirus Software for Small Business in 2026: Complete Guide & Comparison"
 layout: default
-  description: "Cyberattacks on small businesses are at an all-time high. In 2025, 43% of cyberattacks targeted small businesses, yet only 14% had adequate protection in..."
+description: "Cyberattacks on small businesses are at an all-time high. In 2025, 43% of cyberattacks targeted small businesses, yet only 14% had adequate protection in..."
 ---
 
 # Best Antivirus Software for Small Business in 2026: Complete Guide & Comparison

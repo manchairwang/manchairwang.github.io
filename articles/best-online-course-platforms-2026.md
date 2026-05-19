@@ -1,7 +1,7 @@
 ---
 title: "Best Online Course Platforms for Beginners in 2026: Complete Comparison Guide"
 layout: default
-  description: "The online learning industry is projected to reach $740 billion by 2030, and 2026 is the perfect time to jump in — whether you want to learn a new skill..."
+description: "The online learning industry is projected to reach $740 billion by 2030, and 2026 is the perfect time to jump in — whether you want to learn a new skill..."
 ---
 
 # Best Online Course Platforms for Beginners in 2026: Complete Comparison Guide

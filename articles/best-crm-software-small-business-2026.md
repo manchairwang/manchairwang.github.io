@@ -1,7 +1,7 @@
 ---
 title: "Best CRM Software for Small Business 2026: Comprehensive Review & Buying Guide"
 layout: default
-  description: "Finding the right Customer Relationship Management (CRM) software can make or break your small business."
+description: "Finding the right Customer Relationship Management (CRM) software can make or break your small business."
 ---
 
 # Best CRM Software for Small Business 2026: Comprehensive Review & Buying Guide

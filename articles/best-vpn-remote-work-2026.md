@@ -1,7 +1,7 @@
 ---
 title: "Best VPN for Remote Work in 2026: Expert Guide & Comparison"
 layout: default
-  description: "Remote work is no longer a trend — it's the new standard. Whether you're a digital nomad working from Bali coffee shops, a freelancer accessing client..."
+description: "Remote work is no longer a trend — it's the new standard. Whether you're a digital nomad working from Bali coffee shops, a freelancer accessing client..."
 ---
 
 # Best VPN for Remote Work in 2026: Expert Guide & Comparison

@@ -1,7 +1,7 @@
 ---
 title: "Best Website Builders for Small Business in 2026: Expert Comparison Guide"
 layout: default
-  description: "Building a professional website is no longer optional for small businesses — it's essential."
+description: "Building a professional website is no longer optional for small businesses — it's essential."
 ---
 
 # Best Website Builders for Small Business in 2026: Expert Comparison Guide

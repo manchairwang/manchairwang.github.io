@@ -1,7 +1,7 @@
 ---
 title: "Best Social Media Management Tools for Small Business 2026: Comprehensive Comparison & Buyer's Guide"
 layout: default
-  description: "Social media management is no longer optional for small businesses — it's the primary channel where 73% of customers discover new brands."
+description: "Social media management is no longer optional for small businesses — it's the primary channel where 73% of customers discover new brands."
 ---
 
 # Best Social Media Management Tools for Small Business 2026: Comprehensive Comparison & Buyer's Guide

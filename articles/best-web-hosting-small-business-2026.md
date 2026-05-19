@@ -1,7 +1,7 @@
 ---
 title: "Best Web Hosting for Small Business in 2026: Expert Comparison & Buying Guide"
 layout: default
-  description: "Your website is the digital storefront of your small business. In 2026, with over 1."
+description: "Your website is the digital storefront of your small business. In 2026, with over 1."
 ---
 
 # Best Web Hosting for Small Business in 2026: Expert Comparison & Buying Guide

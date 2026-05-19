@@ -1,7 +1,7 @@
 ---
 title: "CatKitty 产品评测 & 赚钱指南"
 layout: default
-  description: "CatKitty产品评测与赚钱指南 - 2026年最新评测，涵盖VPN、CRM、SEO、电商等最佳商业工具评测，帮你选最好的产品。"
+description: "CatKitty产品评测与赚钱指南 - 2026年最新评测，涵盖VPN、CRM、SEO、电商等最佳商业工具评测，帮你选最好的产品。"
 ---
 
 # CatKitty 产品评测 & 赚钱指南

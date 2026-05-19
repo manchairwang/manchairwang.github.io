@@ -1,7 +1,7 @@
 ---
 title: "Best Password Managers for 2026: Expert Review & Comparison Guide"
 layout: default
-  description: "In 2026, the average person manages over 100 online accounts. Using the same password across multiple sites is a recipe for disaster — yet 65% of people..."
+description: "In 2026, the average person manages over 100 online accounts. Using the same password across multiple sites is a recipe for disaster — yet 65% of people..."
 ---
 
 # Best Password Managers for 2026: Expert Review & Comparison Guide

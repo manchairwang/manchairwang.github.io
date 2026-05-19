@@ -1,7 +1,7 @@
 ---
 title: "Best Project Management Software for Small Business 2026: Top 10 Tools Compared"
 layout: default
-  description: "Finding the right project management software can make or break your small business's productivity."
+description: "Finding the right project management software can make or break your small business's productivity."
 ---
 
 # Best Project Management Software for Small Business 2026: Top 10 Tools Compared

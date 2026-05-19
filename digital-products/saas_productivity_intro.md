@@ -1,7 +1,7 @@
 ---
 title: "SaaS Productivity: Free Tools for 2026"
 layout: default
-  description: "2026年最佳免费SaaS生产力工具推荐，涵盖Notion、Airtable、Figma等10款工具及变现策略。"
+description: "2026年最佳免费SaaS生产力工具推荐，涵盖Notion、Airtable、Figma等10款工具及变现策略。"
 ---
 
 # SaaS Productivity: Free Tools for 2026

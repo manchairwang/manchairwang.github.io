@@ -1,7 +1,7 @@
 ---
 title: "Best E-Commerce Platforms for Small Business 2026: Comprehensive Comparison & Buyer's Guide"
 layout: default
-  description: "Choosing the right e-commerce platform is one of the most critical decisions a small business owner can make."
+description: "Choosing the right e-commerce platform is one of the most critical decisions a small business owner can make."
 ---
 
 # Best E-Commerce Platforms for Small Business 2026: Comprehensive Comparison & Buyer's Guide

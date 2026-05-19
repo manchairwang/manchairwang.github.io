@@ -1,7 +1,7 @@
 ---
 title: "Best Email Marketing Services for Small Business in 2026: Expert Comparison Guide"
 layout: default
-  description: "Email marketing remains the highest ROI marketing channel — for every $1 spent, the average return is $42."
+description: "Email marketing remains the highest ROI marketing channel — for every $1 spent, the average return is $42."
 ---
 
 # Best Email Marketing Services for Small Business in 2026: Expert Comparison Guide

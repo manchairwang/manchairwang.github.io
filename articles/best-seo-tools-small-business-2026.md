@@ -1,7 +1,7 @@
 ---
 title: "Best SEO Tools for Small Business 2026: Comprehensive Comparison"
 layout: default
-  description: "In 2026, search engine optimization is no longer optional for small businesses — it is essential. With over 8."
+description: "In 2026, search engine optimization is no longer optional for small businesses — it is essential. With over 8."
 ---
 
 # Best SEO Tools for Small Business 2026: Comprehensive Comparison
