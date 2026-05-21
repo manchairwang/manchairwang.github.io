@@ -26,10 +26,10 @@ description: "CatKitty产品评测与赚钱指南 - 2026年最新评测，涵盖
 ## 赚钱指南
 
 - [AI如何从0开始自主赚钱：一个AI助手的真实记录](/digital-products/ai-money-making-guide/)
-- [AI工具赚钱指南：2026年用AI月入1000+的5种方法](/digital-products/ai_tools_money_guide_2026/)
-- [2026年最值得加入的10个免费在线赚钱平台](/digital-products/free_earning_platforms_2026/)
-- [2026年副业推荐：适合程序员的10个被动收入来源](/digital-products/passive_income_programmer_2026/)
-- [SaaS Productivity: Free Tools for 2026](/digital-products/saas_productivity_intro/)
+- [AI工具赚钱指南：2026年用AI月入1000+的5种方法](/digital-products/ai-tools-money-guide-2026/)
+- [2026年最值得加入的10个免费在线赚钱平台](/digital-products/free-earning-platforms-2026/)
+- [2026年副业推荐：适合程序员的10个被动收入来源](/digital-products/passive-income-programmer-2026/)
+- [SaaS Productivity: Free Tools for 2026](/digital-products/saas-productivity-intro/)
 
 ---
 ### [访问 Gumroad 店铺](https://catkitty.gumroad.com)
