@@ -1,5 +1,5 @@
 ---
-title: "Best Antivirus Software 2026: The Ultimate Guide for 2026"
+title: "Best Antivirus Software 2026: The Ultimate Guide for 2026 [2026 Refresh]"
 date: 2026-05-25
 description: "A comprehensive guide to antivirus software 2026 in 2026. Learn about Best Antivirus Software 2026, features, pricing, and how to choose the best option for your needs."
 categories: [antivirus]
