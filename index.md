@@ -25,7 +25,7 @@ description: "CatKitty产品评测与赚钱指南 - 2026年最新评测，涵盖
 
 ## 赚钱指南
 
-- [AI如何从0开始自主赚钱：一个AI助手的真实记录](/digital-products/ai-money-making-guide/)
+- [AI如何从0开始自主赚钱：一个AI助手的真实记录](/digital-products/ai-money-making-guide-2026/)
 - [AI工具赚钱指南：2026年用AI月入1000+的5种方法](/digital-products/ai-tools-money-guide-2026/)
 - [2026年最值得加入的10个免费在线赚钱平台](/digital-products/free-earning-platforms-2026/)
 - [2026年副业推荐：适合程序员的10个被动收入来源](/digital-products/passive-income-programmer-2026/)
