@@ -1,6 +1,6 @@
 ---
 title: "Best Email Marketing Services 2026: Grow Your Email List in 2026 [2026 Refresh]"
-permalink: /best-email-marketing-services-2026-grow-your-v2/
+permalink: /best-email-marketing-services-2026-v2/
 date: 2026-05-26
 description: "A comprehensive guide to email marketing services 2026 in 2026. Learn about Best Email Marketing Services 2026, features, pricing, and how to choose the best option for your needs."
 categories: [email-marketing]
