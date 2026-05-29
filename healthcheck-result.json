@@ -1,0 +1,13 @@
+{
+  "total_md_files": 94,
+  "_posts_valid": "71/71",
+  "underscore_files": [],
+  "long_slug_files": 1,
+  "homepage_accessible": true,
+  "spot_check_urls": [
+    {"url": "https://manchairwang.github.io/articles/best-vpn-remote-work-2026/", "status": 200},
+    {"url": "https://manchairwang.github.io/digital-products/ai-money-making-guide-2026/", "status": 200},
+    {"url": "https://manchairwang.github.io/2026/05/26/social-media-management-tools-2026-the-ultima/", "status": 404}
+  ],
+  "latest_git_commit": "5cd7762 fix: add date prefix, shorten slugs, dedup slug collision, add permalink [auto-fix]"
+}
