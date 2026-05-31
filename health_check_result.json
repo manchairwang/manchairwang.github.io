@@ -1,0 +1,55 @@
+{
+  "total_md_files": 118,
+  "valid_posts_count": 94,
+  "invalid_posts_count": 0,
+  "urls_tested_with_status": [
+    {"url": "https://manchairwang.github.io/", "status": 200, "label": "homepage"},
+    {"url": "https://manchairwang.github.io/best-freelance-platforms-2026/", "status": 200, "label": "old_post_clean_url"},
+    {"url": "https://manchairwang.github.io/seo-strategies-that-actually-work-2026-v1/", "status": 200, "label": "recent_post_clean_url"},
+    {"url": "https://manchairwang.github.io/articles/best-email-marketing-services-2026/", "status": 200, "label": "article_page"},
+    {"url": "https://manchairwang.github.io/digital-products/ai-money-making-guide-2026/", "status": 200, "label": "digital_product"},
+    {"url": "https://manchairwang.github.io/best-cloud-storage-2026/", "status": 200, "label": "root_page"},
+    {"url": "https://manchairwang.github.io/best-antivirus-software-2026-the-ultimat/", "status": 404, "label": "broken_clean_url_BUG"},
+    {"url": "https://manchairwang.github.io/2026-05-28-best-antivirus-software-2026-the-ultimat/", "status": 200, "label": "buggy_date_prefixed_url"},
+    {"url": "https://manchairwang.github.io/create-and-sell-online-courses-in-2026-b/", "status": 404, "label": "broken_clean_url_BUG"},
+    {"url": "https://manchairwang.github.io/2026-05-28-create-and-sell-online-courses-in-2026-b/", "status": 200, "label": "buggy_date_prefixed_url"},
+    {"url": "https://manchairwang.github.io/ecommerce-platforms-for-beginners-2026-t/", "status": 404, "label": "broken_clean_url_BUG"},
+    {"url": "https://manchairwang.github.io/2026-05-28-ecommerce-platforms-for-beginners-2026-t/", "status": 200, "label": "buggy_date_prefixed_url"},
+    {"url": "https://manchairwang.github.io/why-2026-is-the-year-to-switch-to-a-vpn/", "status": 404, "label": "broken_clean_url_BUG"},
+    {"url": "https://manchairwang.github.io/2026-05-28-why-2026-is-the-year-to-switch-to-a-vpn/", "status": 200, "label": "buggy_date_prefixed_url"}
+  ],
+  "git_dirty": false,
+  "git_pending_push": false,
+  "git_behind_remote": 1,
+  "last_commit_time": "2026-05-31 08:05:54 -0400",
+  "last_commit_hash": "92affe651482b02b3a0b37b657b3224c6d9a726f",
+  "last_commit_message": "fix: rename 10 undated _posts files + add permalink frontmatter [cron]",
+  "silent_404_files": 4,
+  "silent_404_details": [
+    {
+      "filename": "2026-05-28-best-antivirus-software-2026-the-ultimat.md",
+      "expected_clean_url": "https://manchairwang.github.io/best-antivirus-software-2026-the-ultimat/",
+      "actual_working_url": "https://manchairwang.github.io/2026-05-28-best-antivirus-software-2026-the-ultimat/",
+      "root_cause": "malformed permalink front matter: 'permalink:/...' missing space after colon"
+    },
+    {
+      "filename": "2026-05-28-create-and-sell-online-courses-in-2026-b.md",
+      "expected_clean_url": "https://manchairwang.github.io/create-and-sell-online-courses-in-2026-b/",
+      "actual_working_url": "https://manchairwang.github.io/2026-05-28-create-and-sell-online-courses-in-2026-b/",
+      "root_cause": "malformed permalink front matter: 'permalink:/...' missing space after colon"
+    },
+    {
+      "filename": "2026-05-28-ecommerce-platforms-for-beginners-2026-t.md",
+      "expected_clean_url": "https://manchairwang.github.io/ecommerce-platforms-for-beginners-2026-t/",
+      "actual_working_url": "https://manchairwang.github.io/2026-05-28-ecommerce-platforms-for-beginners-2026-t/",
+      "root_cause": "malformed permalink front matter: 'permalink:/...' missing space after colon"
+    },
+    {
+      "filename": "2026-05-28-why-2026-is-the-year-to-switch-to-a-vpn.md",
+      "expected_clean_url": "https://manchairwang.github.io/why-2026-is-the-year-to-switch-to-a-vpn/",
+      "actual_working_url": "https://manchairwang.github.io/2026-05-28-why-2026-is-the-year-to-switch-to-a-vpn/",
+      "root_cause": "malformed permalink front matter: 'permalink:/...' missing space after colon"
+    }
+  ],
+  "notes": "No undated _posts files found (all 94 have valid YYYY-MM-DD prefix). However, 4 _posts files have malformed permalink in front matter (missing space after 'permalink:') causing Jekyll to generate URLs with date prefix embedded, making clean URLs return 404. Also, the repo is 1 commit behind remote (origin/main has newer commits)."
+}

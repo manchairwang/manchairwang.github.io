@@ -1,6 +1,6 @@
 ---
 title: "Create and Sell Online Courses in 2026: Best Online Course Platforms 2026 Guide"
-permalink:/create-and-sell-online-courses-in-2026-best-online-course-platforms-2026-guide/
+permalink: /create-sell-online-courses-2026/
 date: 2026-05-28
 description: "A comprehensive guide to online course platforms 2026 in 2026. Learn about Best Online Course Platforms 2026, features, pricing, and how to choose the best option for your needs."
 categories: [course]
